@@ -1,0 +1,4 @@
+OPENAI 
+STREAMLIT
+pymupdf
+docx
